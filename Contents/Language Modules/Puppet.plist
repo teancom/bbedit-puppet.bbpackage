@@ -9,14 +9,32 @@
     <key>BBLMIsCaseSensitive</key> <true/>
     <key>BBLMKeywordList</key>
     <array>
+      <string>and</string>
+      <string>application</string>
+      <string>attr</string>
       <string>case</string>
       <string>class</string>
+      <string>consumes</string>
+      <string>default</string>
       <string>define</string>
       <string>else</string>
       <string>elseif</string>
+      <string>environment</string>
+      <string>false</string>
       <string>if</string>
       <string>include</string>
       <string>import</string>
+      <string>in</string>
+      <string>inherits</string>
+      <string>node</string>
+      <string>or</string>
+      <string>private</string>
+      <string>produces</string>
+      <string>site</string>
+      <string>true</string>
+      <string>type</string>
+      <string>undef</string>
+      <string>unless</string>
     </array>
     <key>BBLMPredefinedNameList</key>
     <array>
@@ -66,7 +84,7 @@
       <key>Escape Char in Strings 2</key>
       <string>\</string>
       <key>Identifier and Keyword Character Class</key>
-      <string>0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ_abcdefghijklmnopqrstuvwxyz$</string>
+      <string>0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ_abcdefghijklmnopqrstuvwxyz:$</string>
       <key>Open Block Comments</key>
       <string>/*</string>
       <key>Open Line Comments</key>
